@@ -1,1 +1,1 @@
-# estilos-no-reposi-t-rio
+# estilos-no-repositori
